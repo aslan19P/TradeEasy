@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 20:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: TradeEasy/settings.py:128
+msgid "Russian"
+msgstr "Русский"
+
+#: TradeEasy/settings.py:129
+msgid "English"
+msgstr "Английский"
+
+#: cart/templates/cart/detail.html:9
+msgid "Your shopping cart"
+msgstr "Ваша корзина"
+
+#: cart/templates/cart/detail.html:14
+msgid "Image"
+msgstr "Изображение"
+
+#: cart/templates/cart/detail.html:15
+msgid "Category"
+msgstr "Категория"
+
+#: cart/templates/cart/detail.html:16
+msgid "Product"
+msgstr "Продукт"
+
+#: cart/templates/cart/detail.html:17
+msgid "Description"
+msgstr "Описание"
+
+#: cart/templates/cart/detail.html:18
+msgid "Quantity"
+msgstr "Количество"
+
+#: cart/templates/cart/detail.html:19 cart/templates/cart/detail.html:46
+msgid "Remove"
+msgstr "Удалить"
+
+#: cart/templates/cart/detail.html:20
+msgid "Unit price"
+msgstr "Цена за единицу"
+
+#: cart/templates/cart/detail.html:21
+msgid "Price"
+msgstr "Цена"
+
+#: cart/templates/cart/detail.html:40
+msgid "Update"
+msgstr "Обновить"
+
+#: cart/templates/cart/detail.html:56
+msgid "Total"
+msgstr "Итого"
+
+#: cart/templates/cart/detail.html:63
+msgid "Continue shopping"
+msgstr "Продолжить покупки"
+
+#: cart/templates/cart/detail.html:64
+msgid "Checkout"
+msgstr "Оформить заказ"
+
+#: products/templates/products/base.html:18
+#: users/templates/users/dashboard.html:7
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: products/templates/products/base.html:21
+msgid "Your cart"
+msgstr "Ваша корзина"
+
+#: products/templates/products/base.html:43
+msgid "Hello"
+msgstr "Здравствуйте"
+
+#: products/templates/products/base.html:44
+msgid "Logout"
+msgstr "Выйти"
+
+#: products/templates/products/base.html:46
+#: users/templates/registration/login.html:7
+msgid "Log-in"
+msgstr "Войти"
+
+#: products/templates/products/base.html:55
+msgid "Your cart:"
+msgstr "Ваша корзина:"
+
+#: products/templates/products/base.html:60
+msgid "Your cart is empty."
+msgstr "Ваша корзина пуста."
+
+#: products/templates/products/product/detail.html:22
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: products/templates/products/product/list.html:10
+msgid "Categories"
+msgstr "Категории"
+
+#: products/templates/products/product/list.html:13
+msgid "All"
+msgstr "Все"
+
+#: products/templates/products/product/list.html:23
+msgid "Products"
+msgstr "Продукты"
+
+#: users/templates/registration/logged_ out.html:7
+msgid "Logged out"
+msgstr "Вы вышли из системы"
+
+#: users/templates/registration/logged_ out.html:9
+msgid "You have been successfully logged out. You can"
+msgstr "Вы успешно вышли из системы. Вы можете"
+
+#: users/templates/registration/logged_ out.html:9
+msgid "log-in again"
+msgstr "войти снова"
+
+#: users/templates/registration/login.html:10
+msgid "Your username and password did not match. Please try again."
+msgstr ""
+
+#: users/templates/registration/login.html:14
+msgid "Please, use the following form to log-in. If you do not have an account"
+msgstr "Пожалуйста, используйте следующую форму для входа"
+
+#: users/templates/registration/login.html:15
+msgid "register here"
+msgstr "зарегистрированы здесь"
+
+#: users/templates/registration/login.html:30
+msgid "Sign in with Facebook"
+msgstr "Войти через Facebook"
+
+#: users/templates/registration/login.html:35
+msgid "Sign in with Twitter"
+msgstr "Войти через Twitter"
+
+#: users/templates/registration/login.html:40
+msgid "Sign in with Google"
+msgstr "Войти через Google"
+
+#: users/templates/registration/login.html:45
+msgid "Sign in with Github"
+msgstr "Войти через Github"
+
+#: users/templates/users/dashboard.html:8
+msgid "Welcome to your home page."
+msgstr "Добро пожаловать на вашу главную страницу."
+
+#: users/templates/users/dashboard.html:9
+msgid "Here you can go for"
+msgstr "Здесь вы можете"
+
+#: users/templates/users/dashboard.html:9
+msgid "shopping!"
+msgstr "покупки!"
+
+#: users/templates/users/dashboard.html:10
+msgid "Here you can look into your"
+msgstr "Здесь вы можете посмотреть в вашу"
+
+#: users/templates/users/dashboard.html:10
+msgid "cart!"
+msgstr "корзину!"
+
+#: users/templates/users/register.html:7
+msgid "Create an account"
+msgstr "Создать аккаунт"
+
+#: users/templates/users/register.html:8
+msgid "Please, sign up using the following form:"
+msgstr "Пожалуйста, зарегистрируйтесь, используя следующую форму:"
+
+#: users/templates/users/register_done.html:4
+#: users/templates/users/register_done.html:7
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: users/templates/users/register_done.html:9
+msgid "Your account has been successfully created."
+msgstr "Ваш аккаунт был успешно создан."
+
+#: users/templates/users/register_done.html:10
+msgid "Now you can"
+msgstr "Теперь вы можете"
+
+#: users/templates/users/register_done.html:10
+msgid "log in"
+msgstr "войти"
+
+#, fuzzy
+#~| msgid "Now you can"
+#~ msgid "You can"
+#~ msgstr "Теперь вы можете"
+
+#~ msgid "Please try again."
+#~ msgstr "Пожалуйста, попробуйте снова."

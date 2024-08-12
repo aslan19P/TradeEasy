@@ -1,24 +1,24 @@
 {% extends "products/base.html" %}
-{% load static %}
+{% load static i18n%}
 
 {% block title %}
 Your shopping cart
 {% endblock %}
 
 {% block content %}
-<h1>Your shopping cart</h1>
+<h1>{% translate 'Your shopping cart' %}</h1>
 
 <table class="cart">
     <thead>
         <tr>
-            <th>Image</th>
-            <th>Category</th>
-            <th>Product</th>
-            <th>Description</th>
-            <th>Quantity</th>
-            <th>Remove</th>
-            <th>Unit price</th>
-            <th>Price</th>
+            <th>{% translate 'Image' %}</th>
+            <th>{% translate 'Category' %}</th>
+            <th>{% translate 'Product' %}</th>
+            <th>{% translate 'Description' %}</th>
+            <th>{% translate 'Quantity' %}</th>
+            <th>{% translate 'Remove' %}</th>
+            <th>{% translate 'Unit price' %}</th>
+            <th>{% translate 'Price' %}</th>
         </tr>
     </thead>
     <tbody>
@@ -37,13 +37,13 @@ Your shopping cart
                 <form action="{% url "cart:cart_add" product.id %}" method="post">
                 {{ item.update_quantity_form.quantity }}
                 {{ item.update_quantity_form.override }}
-                <input type="submit" value="Update">
+                <input type="submit" value="{% translate 'Update' %}">
                 {% csrf_token %}
                 </form>
             </td>
             <td>
                 <form action="{% url  'cart:cart_remove' product.id %}" method="post">
-                    <input type="submit" value="Remove">
+                    <input type="submit" value="{% translate 'Remove' %}">
                     {% csrf_token %}
                 </form>
             </td>
@@ -53,15 +53,14 @@ Your shopping cart
         {% endwith %}
         {% endfor %}
         <tr class="total">
-            <td>Total</td>
+            <td>{% translate 'Total' %}</td>
             <td colspan="6"></td>
             <td class="num">${{ cart.get_total_price }}</td>
         </tr>
     </tbody>
 </table>
 <p class="text-right">
-    <a href="{% url 'products:product_list' %}" class="button
-light">Continue shopping</a>
-    <a href="#" class="button">Checkout</a>
+    <a href="{% url 'products:product_list' %}" class="buttonlight">{% translate 'Continue shopping' %}</a>
+    <a href="#" class="button">{% translate 'Checkout' %}</a>
 </p>
 {% endblock %}

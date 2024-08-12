@@ -104,7 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # Exclude collected Django static files
-static
 media
 # Exclude machine-specific vs code settings
 .vscode/settings.json
