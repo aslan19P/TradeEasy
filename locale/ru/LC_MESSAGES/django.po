@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 20:19+0000\n"
+"POT-Creation-Date: 2024-08-12 21:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -99,6 +99,7 @@ msgstr "Выйти"
 
 #: products/templates/products/base.html:46
 #: users/templates/registration/login.html:7
+#: users/templates/registration/login.html:23
 msgid "Log-in"
 msgstr "Войти"
 
@@ -193,6 +194,10 @@ msgstr "Создать аккаунт"
 #: users/templates/users/register.html:8
 msgid "Please, sign up using the following form:"
 msgstr "Пожалуйста, зарегистрируйтесь, используя следующую форму:"
+
+#: users/templates/users/register.html:12
+msgid "Create my account"
+msgstr "Создать мой аккаунт"
 
 #: users/templates/users/register_done.html:4
 #: users/templates/users/register_done.html:7

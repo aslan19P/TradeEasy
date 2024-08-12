@@ -3,7 +3,7 @@ from .models import Category, Product
 from modeltranslation.admin import TranslationAdmin 
 
 @admin.register(Category)
-class CategoryAdmin(admin.ModelAdmin):
+class CategoryAdmin(TranslationAdmin):
     list_display = ['name', 'slug']
     prepopulated_fields = {'slug': ('name',)}
 
