@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+
+{% block title %}TradeEasy {{ search }}{% endblock title %}
+
+{% block content %}
+
+<h1 class="h1Search">{{ search }}</h1>
+<div class="box_sec2_prod_grid">
+    {% for product in products %}
+    <div class="item">
+        <a href="{{ product.get_absolute_url }}">
+            <img src="{% if product.image %}{{ product.image.url }}{% else %}{% static 'img/no_image.png' %}{% endif %}">
+            {{ product.name }}
+            <br>
+            ${{ product.price }}
+        </a>
+    </div>
+    {% empty %}
+    <div class="boxPSearch">
+    <p class="pSearch">{% trans 'There are no products in this category' %}</p>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock content %}

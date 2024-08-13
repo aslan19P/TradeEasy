@@ -1,0 +1,1209 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-08-06T12:36:40.466Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "muiz",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-08-06T12:36:47.690Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "muiz",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-08-07T19:36:10.254Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-08-07T19:38:16.942Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-08-07T21:50:01.041Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-08-07T21:57:52.787Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "Red tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-08-08T00:53:19.375Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Black tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-08-08T00:54:36.186Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-08-12T15:41:23.401Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "4",
+    "object_repr": "Green tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-08-12T18:05:03.281Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "4",
+    "object_repr": "зеленный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-08-12T18:09:30.477Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "4",
+    "object_repr": "зеленный чай",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-08-12T18:10:11.044Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Зеленный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-08-12T18:11:20.396Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "Красный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-08-12T18:13:32.000Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Черный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-08-12T21:02:07.517Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "Чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-08-13T10:18:27.949Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "2",
+    "object_repr": "food",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-08-13T10:19:06.283Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "5",
+    "object_repr": "palov",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-08-13T10:21:13.562Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "3",
+    "object_repr": "Black tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-08-13T10:21:23.739Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-08-13T10:21:45.261Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "Red tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-08-13T10:22:19.055Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "Red tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-08-13T10:40:53.595Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "5",
+    "object_repr": "palov",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-08-13T10:56:44.497Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "5",
+    "object_repr": "palov",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add association",
+    "content_type": 7,
+    "codename": "add_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change association",
+    "content_type": 7,
+    "codename": "change_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete association",
+    "content_type": 7,
+    "codename": "delete_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view association",
+    "content_type": 7,
+    "codename": "view_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add code",
+    "content_type": 8,
+    "codename": "add_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change code",
+    "content_type": 8,
+    "codename": "change_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete code",
+    "content_type": 8,
+    "codename": "delete_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view code",
+    "content_type": 8,
+    "codename": "view_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add nonce",
+    "content_type": 9,
+    "codename": "add_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change nonce",
+    "content_type": 9,
+    "codename": "change_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete nonce",
+    "content_type": 9,
+    "codename": "delete_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view nonce",
+    "content_type": 9,
+    "codename": "view_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add user social auth",
+    "content_type": 10,
+    "codename": "add_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change user social auth",
+    "content_type": 10,
+    "codename": "change_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete user social auth",
+    "content_type": 10,
+    "codename": "delete_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view user social auth",
+    "content_type": 10,
+    "codename": "view_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add partial",
+    "content_type": 11,
+    "codename": "add_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change partial",
+    "content_type": 11,
+    "codename": "change_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete partial",
+    "content_type": 11,
+    "codename": "delete_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view partial",
+    "content_type": 11,
+    "codename": "view_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 12,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 12,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 12,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 12,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 13,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 13,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 13,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 13,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$wbUzHKfNw5jAYU9hjOqS48$6ipMZ/83S3SkNjwtHXPyK0f1aU85GJgFMstMWHjFMd8=",
+    "last_login": "2024-08-13T10:56:39.360Z",
+    "is_superuser": true,
+    "username": "aslan",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-08-06T11:38:12.493Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$L8fqRKS88jxsBWJlZ1wCYv$6gslM/ZwwIhV4kZ0UZPdHlGn4vRUE+fzpD472VinT78=",
+    "last_login": "2024-08-06T15:31:26.843Z",
+    "is_superuser": false,
+    "username": "muiz",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-06T12:36:40Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$lYT0OTbITdokT0m0In3moN$IEno4Ib4zRXzw2Pgnxq6HthymW6FTAFgpWBo7215NMA=",
+    "last_login": "2024-08-07T18:02:23.207Z",
+    "is_superuser": false,
+    "username": "aslan1",
+    "first_name": "aslan1",
+    "last_name": "",
+    "email": "qwerty@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:02:07.544Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$8SU5DDZO801CdGkwMnwiSt$vfypTOBwhxSCZUOU1D2S4anL97RtmZ1MSnvq7BOrgfE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "muiz1",
+    "first_name": "muiz1",
+    "last_name": "",
+    "email": "muiz@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:04:23.592Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "!ZQYqw33fpR1P6jXqDAX95nfWDHJvbsdDPxvg9lfQ",
+    "last_login": "2024-08-07T18:37:54.369Z",
+    "is_superuser": false,
+    "username": "AslanMatyackubov",
+    "first_name": "Aslan",
+    "last_name": "Matyackubov",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:37:54.345Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 6,
+  "fields": {
+    "password": "!q1GCGfVFyfceoFhHhqxP1eAL7V6NZeK6fHTn0n1Q",
+    "last_login": "2024-08-07T18:38:07.778Z",
+    "is_superuser": false,
+    "username": "19Pleyer",
+    "first_name": "АСЛАН",
+    "last_name": "19 pleyer Матячкубов",
+    "email": "matackubovaslan@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:38:07.754Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 7,
+  "fields": {
+    "password": "!2QGHaXO7liTdWFCOJ67Pua226r4pK82VzOemMP29",
+    "last_login": "2024-08-07T18:38:13.323Z",
+    "is_superuser": false,
+    "username": "matackubovaslan",
+    "first_name": "АСЛАН 19 pleyer",
+    "last_name": "Матячкубов",
+    "email": "matackubovaslan@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:38:13.297Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 8,
+  "fields": {
+    "password": "!pSK9gQj0lhERjZEIBhnK90cadk6az1FJLNhslwbx",
+    "last_login": "2024-08-08T07:20:59.450Z",
+    "is_superuser": false,
+    "username": "aslan19P",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:38:21.886Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "social_django",
+    "model": "association"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "social_django",
+    "model": "code"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "social_django",
+    "model": "nonce"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "social_django",
+    "model": "usersocialauth"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "social_django",
+    "model": "partial"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "products",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "products",
+    "model": "product"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lbxwwf3b0oe5os5nvidwjb7nas6syq86",
+  "fields": {
+    "session_data": ".eJxVjEEOgyAQRe8y64aAAqMuu_cMZmCg2DaYgK6Md29N3Lj9772_g6eywrAfD5hoW9O01VCmmWEABbfNkf-EfAJ-U34twi95LbMTpyIuWsW4cPg-L_d2kKimf20xdn2DzKaVzlBju2icQtXHIJ30LZNllkb3yjiKaKy3SLqJzKiYgobjByZxO4E:1scUVw:lZ1UEqXEh6z3RnjR8lzqg6S1fhheWvZmzh3x2hZ2lcY",
+    "expire_date": "2024-08-23T18:39:00.838Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "smy3yhr82hqw47fg9el6hes3c06uecqh",
+  "fields": {
+    "session_data": ".eJxVjEEOgyAQRe8y64aAAqMuu_cMZmCg2DaYgK6Md29N3Lj9772_g6eywrAfD5hoW9O01VCmmWEABbfNkf-EfAJ-U34twi95LbMTpyIuWsW4cPg-L_d2kKimf20xdn2DzKaVzlBju2icQtXHIJ30LZNllkb3yjiKaKy3SLqJzKiYgobjByZxO4E:1sdpCq:PKPcv08ak1bDgSCB8tK_uMj9sNBy9SACgJpbBzLPl4Y",
+    "expire_date": "2024-08-27T10:56:48.617Z"
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 1,
+  "fields": {
+    "user": 5,
+    "provider": "facebook",
+    "uid": "541756271513137",
+    "extra_data": {
+      "auth_time": 1723055874,
+      "id": "541756271513137",
+      "expires": 5183998,
+      "granted_scopes": [
+        "email",
+        "public_profile"
+      ],
+      "denied_scopes": null,
+      "access_token": "EAAHS52IPF60BO9Uw32Amq2yMlnLWZBizmK5GwNrNfsKHR4MywR9M2bZAB92Dy1k3UXgEpzFM3pWvW3SliAxH0ScAMQAT6ZCtcO0qWTIIvR4zpmXlxeQY9CRgh7ZCan1B1SnQ3APZC5fEDGd2vLQSdrTTx1FZC4Lq32WdYSmG2JkCCWYokKpgGZCZBqXv7YDmuc7U26ShjFnUFTVvnhoNlQWtZBHyGHHcZC2A7y39N8SLTbZAKb8ZAquJPExm",
+      "token_type": null
+    },
+    "created": "2024-08-07T18:37:54.359Z",
+    "modified": "2024-08-07T18:37:54.361Z"
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 2,
+  "fields": {
+    "user": 6,
+    "provider": "twitter",
+    "uid": "1689743244824137729",
+    "extra_data": {
+      "auth_time": 1723055887,
+      "id": 1689743244824137729,
+      "access_token": {
+        "oauth_token": "1689743244824137729-7KRfg0U9uRNur4CBunMfAo71qEz1uq",
+        "oauth_token_secret": "VtrqUScyEZV2Ffdc1p70XdCGJZ0WVDaVdXVzu1AnizuRd",
+        "user_id": "1689743244824137729",
+        "screen_name": "19Pleyer"
+      }
+    },
+    "created": "2024-08-07T18:38:07.767Z",
+    "modified": "2024-08-07T18:38:07.770Z"
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 3,
+  "fields": {
+    "user": 7,
+    "provider": "google-oauth2",
+    "uid": "matackubovaslan@gmail.com",
+    "extra_data": {
+      "auth_time": 1723055893,
+      "expires": 3599,
+      "token_type": "Bearer",
+      "access_token": "ya29.a0AcM612y5LZ-a2BDtGHYh8ifEPXlpN1x612tlLwoj0A_2aLNi0ZbuzedPBQIMMfn0LzRLqpffhnHoCuYmzxjU_JE1OcilFS1DJntv9Ed1jg4INOQF6phE4ZSE-N0FRjiTakT87q0Q7KllDadidCYddt50GUBV0zWeUYQaCgYKAUMSARMSFQHGX2Mit6MblntE8PiifeiB5u9Hqg0170"
+    },
+    "created": "2024-08-07T18:38:13.310Z",
+    "modified": "2024-08-07T18:38:13.313Z"
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 4,
+  "fields": {
+    "user": 8,
+    "provider": "github",
+    "uid": "159912699",
+    "extra_data": {
+      "auth_time": 1723101659,
+      "id": 159912699,
+      "expires": null,
+      "login": "aslan19P",
+      "access_token": "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",
+      "token_type": "bearer"
+    },
+    "created": "2024-08-07T18:38:21.899Z",
+    "modified": "2024-08-08T07:20:59.437Z"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 1,
+  "fields": {
+    "name": "Tea",
+    "name_ru": "Чай",
+    "name_en": "Tea",
+    "slug": "tea"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 2,
+  "fields": {
+    "name": "food",
+    "name_ru": "еда",
+    "name_en": "food",
+    "slug": "food"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "Green tea",
+    "name_ru": "Зеленный чай",
+    "name_en": "Green tea",
+    "slug": "green-tea",
+    "image": "products/2024/08/13/green.jpg",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "30.00",
+    "available": true,
+    "created": "2024-08-07T19:38:16.941Z",
+    "updated": "2024-08-13T10:21:23.738Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "name": "Red tea",
+    "name_ru": "Красный чай",
+    "name_en": "Red tea",
+    "slug": "red-tea",
+    "image": "",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "45.00",
+    "available": true,
+    "created": "2024-08-07T21:57:52.786Z",
+    "updated": "2024-08-13T10:22:19.054Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "name": "Black tea",
+    "name_ru": "Черный чай",
+    "name_en": "Black tea",
+    "slug": "black-tea",
+    "image": "products/2024/08/13/black-tea.jpg",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "50.00",
+    "available": true,
+    "created": "2024-08-08T00:53:19.374Z",
+    "updated": "2024-08-13T10:21:13.561Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "category": 2,
+    "name": "palov",
+    "name_ru": "плов",
+    "name_en": "palov",
+    "slug": "palov",
+    "image": "products/2024/08/13/Снимок_экрана_от_2024-08-10_02-03-06-2.png",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "100.00",
+    "available": true,
+    "created": "2024-08-13T10:19:06.282Z",
+    "updated": "2024-08-13T10:56:44.496Z"
+  }
+}
+]

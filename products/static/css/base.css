@@ -198,6 +198,21 @@ ul.errorlist {
     margin-bottom:8px;
 }
 
+.item {
+    width:25%;
+    padding:10px 20px 10px 20px;
+    float:left;
+    text-align:center;
+    line-height:1.2;
+}
+
+.item img {
+    width:400px;
+    height: 250px;
+    margin-bottom:8px;
+}
+
+
 .product-detail {
     text-align:justify;
 }

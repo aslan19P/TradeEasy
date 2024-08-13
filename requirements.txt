@@ -6,6 +6,8 @@ cryptography==43.0.0
 defusedxml==0.8.0rc2
 Django==4.2.8
 django-extensions==3.2.3
+django-modeltranslation==0.19.7
+fuzzywuzzy==0.18.0
 idna==3.7
 MarkupSafe==2.1.5
 oauthlib==3.2.2
@@ -20,5 +22,6 @@ social-auth-app-django==5.4.2
 social-auth-core==4.5.4
 sqlparse==0.5.1
 typing_extensions==4.12.2
+Unidecode==1.3.8
 urllib3==2.2.2
 Werkzeug==3.0.3

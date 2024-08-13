@@ -2,6 +2,29 @@ from django.shortcuts import render, get_object_or_404
 from .models import Category, Product
 from cart.forms import CartAddProductForm
 from django.contrib.auth.decorators import login_required
+from fuzzywuzzy import fuzz
+from unidecode import unidecode
+
+
+
+def search_results(request):
+    search = request.GET.get('search', '')
+    products = []
+
+    if search:
+        normalized_query = unidecode(search).lower()
+        categories = Category.objects.all()
+        matching_categories = []
+
+        for category in categories:
+            normalized_category_name = unidecode(category.name).lower()
+            match_ratio = fuzz.partial_ratio(normalized_query, normalized_category_name)
+            if match_ratio > 70:
+                matching_categories.append(category)
+
+        products = Product.objects.filter(category__in=matching_categories)
+    return render(request, 'products/search_results.html', {'products': products, 'search': search})
+
 
 
 def product_list(request, category_slug=None):

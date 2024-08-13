@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 21:11+0000\n"
+"POT-Creation-Date: 2024-08-13 10:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,13 +119,25 @@ msgstr "Добавить в корзину"
 msgid "Categories"
 msgstr "Категории"
 
-#: products/templates/products/product/list.html:13
+#: products/templates/products/product/list.html:14
 msgid "All"
 msgstr "Все"
 
-#: products/templates/products/product/list.html:23
+#: products/templates/products/product/list.html:24
+msgid "Search by category..."
+msgstr "Искать по категориям..."
+
+#: products/templates/products/product/list.html:26
+msgid "search"
+msgstr "Искать"
+
+#: products/templates/products/product/list.html:29
 msgid "Products"
 msgstr "Продукты"
+
+#: products/templates/products/search_results.html:22
+msgid "There are no products in this category"
+msgstr "В данной категории нету продуктов"
 
 #: users/templates/registration/logged_ out.html:7
 msgid "Logged out"
@@ -141,7 +153,7 @@ msgstr "войти снова"
 
 #: users/templates/registration/login.html:10
 msgid "Your username and password did not match. Please try again."
-msgstr ""
+msgstr "Ваше имя пользователя и пароль не совпали. Пожалуйста, попробуйте еще раз."
 
 #: users/templates/registration/login.html:14
 msgid "Please, use the following form to log-in. If you do not have an account"
