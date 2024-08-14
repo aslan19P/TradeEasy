@@ -61,6 +61,6 @@ Your shopping cart
 </table>
 <p class="text-right">
     <a href="{% url 'products:product_list' %}" class="buttonlight">{% translate 'Continue shopping' %}</a>
-    <a href="#" class="button">{% translate 'Checkout' %}</a>
+    <a href="{% url "orders:order_create" %}" class="button">{% translate 'Checkout' %}</a>
 </p>
 {% endblock %}

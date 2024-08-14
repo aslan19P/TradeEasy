@@ -54,9 +54,9 @@
             <a href="{% url 'cart:cart_detail' %}">
                 {% translate 'Your cart:' %}
             </a>
-            {{ total_items }} item{{ total_items|pluralize }},
+            {{ total_items }} {% translate 'item' %}{{ total_items|pluralize }},
             ${{ cart.get_total_price }}
-            {% else %}
+            {% elif not order %}
             {% translate 'Your cart is empty.' %}
             {% endif %}
             {% endwith %}

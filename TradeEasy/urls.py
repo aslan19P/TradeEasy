@@ -9,6 +9,7 @@ urlpatterns = i18n_patterns(
     path('admin/', admin.site.urls),
     path('cart/', include('cart.urls', namespace='cart')),
     path('users/', include('users.urls')),
+    path('orders/', include('orders.urls', namespace='orders')),
     path('social-auth/', include('social_django.urls', namespace='social')),
     path('', include('products.urls', namespace='products')),
 )
