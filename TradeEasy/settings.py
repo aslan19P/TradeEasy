@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wgs*ep20@6w&1sl%(3a1x%qc=*i#14ppmd=v%^fpmxs=s(v0(_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1', '*']
 
 
 # Application definition
@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'cart',
     'products',
     'users',
+    'payment',
 ]
 
 MIDDLEWARE = [
@@ -92,6 +93,10 @@ DATABASES = {
         'PASSWORD': 'apajan123',
     }
 }
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://83b1-84-54-83-43.ngrok-free.app',
+]
 
 MEDIA_URL = 'media/'
 MEDIA_ROOT = BASE_DIR / 'media'
@@ -150,9 +155,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-
-
-
 CART_SESSION_ID = 'cart'
 
 
@@ -196,3 +198,12 @@ SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = secretgoog
 SOCIAL_AUTH_GITHUB_KEY = keygit
 SOCIAL_AUTH_GITHUB_SECRET = secretgit
 SOCIAL_AUTH_GITHUB_SCOPE = ['email']
+
+
+
+STRIPE_PUBLISHABLE_KEY = 'pk_test_51PombD04KEbzbnGGaZiArS6BaAkaTxz6vFaetzv7eEKAiwy0fwyWdNaiookw8Zh89G7i3DlFs2aonhUahFtpHlHD00ttW3PiI1' # Публикуемый ключ
+STRIPE_SECRET_KEY = 'sk_test_51PombD04KEbzbnGGh8O3jPUMJO6hz30kacEcjBqgWwWPQs1SpqCTqdt299ct5l3PdVtjOvvb8YjeE0te0Qgvsh3r00tQWrmslm'
+# Секретный ключ
+STRIPE_API_VERSION = '2022-08-01'
+
+STRIPE_WEBHOOK_SECRET = 'whsec_229965368998e7a09c6466b793307ab994b0956f6d394e5498e14e874ac11736'

@@ -1,7 +1,9 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import OrderItem
 from .forms import OrderCreateForm
 from cart.cart import Cart
+from .tasks import order_created
+from django.urls import reverse
 
 def order_create(request):
     # Получаем текущую корзину пользователя
@@ -22,8 +24,11 @@ def order_create(request):
                 )
             # Очищаем корзину после создания заказа
             cart.clear()
+            order_created.delay(order.id)
             # Отображаем страницу с подтверждением создания заказа
-            return render(request, 'orders/order/created.html', {'order': order})
+            request.session['order_id'] = order.id
+            # перенаправить к платежу
+            return redirect(reverse('payment:process'))
     else:
         # Если запрос не POST, создаем пустую форму для нового заказа
         form = OrderCreateForm()
