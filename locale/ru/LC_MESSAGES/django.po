@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-13 16:26+0000\n"
+"POT-Creation-Date: 2024-08-20 09:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,11 +20,11 @@ msgstr ""
 "n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
 "(n%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: TradeEasy/settings.py:131
+#: TradeEasy/settings.py:133
 msgid "Russian"
 msgstr "Русский"
 
-#: TradeEasy/settings.py:132
+#: TradeEasy/settings.py:134
 msgid "English"
 msgstr "Английский"
 
@@ -32,7 +32,7 @@ msgstr "Английский"
 msgid "Your shopping cart"
 msgstr "Ваша корзина"
 
-#: cart/templates/cart/detail.html:14
+#: cart/templates/cart/detail.html:14 payment/templates/payment/process.html:11
 msgid "Image"
 msgstr "Изображение"
 
@@ -40,7 +40,7 @@ msgstr "Изображение"
 msgid "Category"
 msgstr "Категория"
 
-#: cart/templates/cart/detail.html:16
+#: cart/templates/cart/detail.html:16 payment/templates/payment/process.html:12
 msgid "Product"
 msgstr "Продукт"
 
@@ -48,7 +48,7 @@ msgstr "Продукт"
 msgid "Description"
 msgstr "Описание"
 
-#: cart/templates/cart/detail.html:18
+#: cart/templates/cart/detail.html:18 payment/templates/payment/process.html:14
 msgid "Quantity"
 msgstr "Количество"
 
@@ -60,7 +60,7 @@ msgstr "Удалить"
 msgid "Unit price"
 msgstr "Цена за единицу"
 
-#: cart/templates/cart/detail.html:21
+#: cart/templates/cart/detail.html:21 payment/templates/payment/process.html:13
 msgid "Price"
 msgstr "Цена"
 
@@ -68,7 +68,8 @@ msgstr "Цена"
 msgid "Update"
 msgstr "Обновить"
 
-#: cart/templates/cart/detail.html:56
+#: cart/templates/cart/detail.html:56 payment/templates/payment/process.html:15
+#: payment/templates/payment/process.html:32
 msgid "Total"
 msgstr "Итого"
 
@@ -101,6 +102,50 @@ msgstr "Спасибо"
 msgid "Your order has been successfully completed. Your order number is"
 msgstr "Ваш заказ был успешно создан. Ваш номер заказа"
 
+#: payment/templates/payment/canceled.html:4
+msgid "Payment canceled"
+msgstr "Оплата отменена"
+
+#: payment/templates/payment/canceled.html:7
+#, fuzzy
+#| msgid "Your account has been successfully created."
+msgid "Your payment has not been processed"
+msgstr "Ваш аккаунт был успешно создан."
+
+#: payment/templates/payment/canceled.html:8
+msgid "There was a problem processing your payment."
+msgstr "Произошла ошибка при обработке вашей оплаты."
+
+#: payment/templates/payment/completed.html:4
+msgid "Payment successful"
+msgstr "Оплата успешна"
+
+#: payment/templates/payment/completed.html:7
+#, fuzzy
+#| msgid "Your account has been successfully created."
+msgid "Your payment was successful"
+msgstr "Ваш аккаунт был успешно создан."
+
+#: payment/templates/payment/completed.html:8
+#, fuzzy
+#| msgid "Your account has been successfully created."
+msgid "Your payment has been processed successfully."
+msgstr "Ваш аккаунт был успешно создан."
+
+#: payment/templates/payment/process.html:4
+#, fuzzy
+#| msgid "Your order"
+msgid "Pay your order"
+msgstr "Ваша заказ"
+
+#: payment/templates/payment/process.html:7
+msgid "Order summary"
+msgstr "Итог заказа"
+
+#: payment/templates/payment/process.html:38
+msgid "Pay now"
+msgstr "Оплатить сейчас"
+
 #: products/templates/products/base.html:18
 #: users/templates/users/dashboard.html:7
 msgid "Home Page"
@@ -127,6 +172,10 @@ msgstr "Войти"
 #: products/templates/products/base.html:55
 msgid "Your cart:"
 msgstr "Ваша корзина:"
+
+#: products/templates/products/base.html:57
+msgid "item"
+msgstr "товар"
 
 #: products/templates/products/base.html:60
 msgid "Your cart is empty."

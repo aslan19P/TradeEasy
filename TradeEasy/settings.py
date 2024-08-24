@@ -94,9 +94,6 @@ DATABASES = {
     }
 }
 
-CSRF_TRUSTED_ORIGINS = [
-    'https://83b1-84-54-83-43.ngrok-free.app',
-]
 
 MEDIA_URL = 'media/'
 MEDIA_ROOT = BASE_DIR / 'media'
@@ -207,3 +204,9 @@ STRIPE_SECRET_KEY = 'sk_test_51PombD04KEbzbnGGh8O3jPUMJO6hz30kacEcjBqgWwWPQs1Spq
 STRIPE_API_VERSION = '2022-08-01'
 
 STRIPE_WEBHOOK_SECRET = 'whsec_229965368998e7a09c6466b793307ab994b0956f6d394e5498e14e874ac11736'
+
+
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://a0fb-84-54-83-43.ngrok-free.app',
+]

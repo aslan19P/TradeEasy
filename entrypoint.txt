@@ -4,6 +4,12 @@ celery -A TradeEasy worker -l info #включать celery workers#
 
 celery -A TradeEasy flower #наблюдение за celery#
 
-python manage.py runserver_plus --cert-file cert.crt #запускает проект с login через goog, git, face, tweet#
+stripe listen --forward-to localhost:8000/payment/webhook/ #птичку в админе #
 
 python manage.py runserver #запускает проект#
+
+ngrok http 8000 #подключать ngrok #
+
+
+
+python manage.py runserver_plus --cert-file cert.crt #запускает проект с login через goog, git, face, tweet#
