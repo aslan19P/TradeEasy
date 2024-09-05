@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
+import os
 from pathlib import Path
 from django.utils.translation import gettext_lazy as _
 
@@ -24,14 +25,14 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-wgs*ep20@6w&1sl%(3a1x%qc=*i#14ppmd=v%^fpmxs=s(v0(_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = bool(int(os.environ.get("DEBUG", True)))
 
-ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1', '*']
-
+ALLOWED_HOSTS = os.environ.get("DJANGO_ALLOWED_HOSTS", "127.0.0.1").split(" ")
 
 # Application definition
 
 INSTALLED_APPS = [
+    'users',
     'modeltranslation',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -41,12 +42,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'social_django',
     'django_extensions',
-    
     'orders',
     'cart',
     'products',
-    'users',
     'payment',
+    
 ]
 
 MIDDLEWARE = [
@@ -85,18 +85,25 @@ WSGI_APPLICATION = 'TradeEasy.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'aslan',
+#         'USER': 'aslan',
+#         'PASSWORD': 'apajan123',
+#     }
+# }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'aslan',
-        'USER': 'aslan',
-        'PASSWORD': 'apajan123',
+        'NAME': os.environ.get('DATABASE_NAME'),
+        'USER': os.environ.get('DATABASE_USER'),
+        'PASSWORD': os.environ.get('DATABASE_PASSWORD'),
+        'HOST': os.environ.get('DATABASE_HOST'),
+        'PORT': '5432',
     }
 }
-
-
-MEDIA_URL = 'media/'
-MEDIA_ROOT = BASE_DIR / 'media'
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
@@ -144,7 +151,18 @@ LOCALE_PATHS =[
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
+MEDIA_URL = '/media/'
+
+if DEBUG:
+    # Для режима разработки (DEBUG = True)
+    STATICFILES_DIRS = [BASE_DIR / 'static']
+    MEDIA_ROOT = BASE_DIR / 'media/'
+else:
+    # Для режима продакшн (DEBUG = False)
+    STATIC_ROOT = BASE_DIR / 'static/'
+    MEDIA_ROOT = BASE_DIR / 'media/'
+    
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
@@ -158,7 +176,6 @@ CART_SESSION_ID = 'cart'
 LOGIN_REDIRECT_URL = 'dashboard'
 LOGIN_URL = 'login'
 LOGOUT_URL = 'logout'
-
 
 
 AUTHENTICATION_BACKENDS = [
@@ -208,5 +225,6 @@ STRIPE_WEBHOOK_SECRET = 'whsec_229965368998e7a09c6466b793307ab994b0956f6d394e549
 
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://a0fb-84-54-83-43.ngrok-free.app',
+    'https://tradeeasy.aslan19p.uz',
+    'http://tradeeasy.aslan19p.uz'
 ]

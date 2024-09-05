@@ -1,0 +1,61 @@
+services:
+  web:
+    build: .
+    container_name: TradeEasy-web
+    restart: always
+    command: bash entrypoint.sh
+    volumes:
+      - .:/usr/src/app
+      - ./static:/usr/src/app/static
+      - ./media:/usr/src/app/media
+
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+      - rabbitmq
+    env_file:
+      - .env.dev
+
+  db:
+    image: postgres
+    container_name: TradeEasy-db
+    restart: always
+    environment:
+      POSTGRES_DB: database
+      POSTGRES_USER: aslan
+      POSTGRES_PASSWORD: 123123123
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: TradeEasy-rabbitmq
+    restart: always
+    ports:
+      - 5672:5672
+      - 15672:15672
+
+  worker:
+    build: .
+    container_name: TradeEasy-worker
+    restart: always
+    command: celery -A TradeEasy worker --loglevel=info
+    depends_on:
+      - web
+      - rabbitmq
+    env_file:
+      - .env.dev
+
+  stripe:
+    image: stripe/stripe-cli
+    container_name: stripe-listener
+    restart: always
+    command: listen --forward-to http://web:8000/payment/webhook/
+    depends_on:
+      - web
+    env_file:
+      - .env.dev
+
+volumes:
+  postgres_data:

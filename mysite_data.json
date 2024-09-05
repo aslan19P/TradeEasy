@@ -1,0 +1,3056 @@
+[
+{
+  "model": "orders.order",
+  "pk": 1,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-13T16:29:52.132Z",
+    "updated": "2024-08-15T10:15:40.391Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 2,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-13T16:31:58.362Z",
+    "updated": "2024-08-13T16:31:58.362Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 3,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-13T16:32:27.741Z",
+    "updated": "2024-08-13T16:32:27.741Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 4,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-15T10:13:45.172Z",
+    "updated": "2024-08-15T10:13:45.172Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 5,
+  "fields": {
+    "first_name": "Muiz",
+    "last_name": "valiyev",
+    "email": "valiyevmuiz0407@gmail.com",
+    "address": "muxtimquli 1a",
+    "postal_code": "-",
+    "city": "tashkent",
+    "created": "2024-08-15T13:22:35.331Z",
+    "updated": "2024-08-15T13:22:35.331Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 6,
+  "fields": {
+    "first_name": "Aclan",
+    "last_name": "Aclan",
+    "email": "qwrty@gmail.com",
+    "address": "Дом Пушкина улица калотушкина",
+    "postal_code": "13920174",
+    "city": "Tashkent",
+    "created": "2024-08-15T14:24:09.500Z",
+    "updated": "2024-08-15T14:24:09.500Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 7,
+  "fields": {
+    "first_name": "3",
+    "last_name": "3",
+    "email": "qfhytf@gmail.com",
+    "address": "3",
+    "postal_code": "4",
+    "city": "1",
+    "created": "2024-08-15T14:27:15.042Z",
+    "updated": "2024-08-15T14:27:15.042Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 8,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-17T09:26:35.775Z",
+    "updated": "2024-08-17T09:26:35.775Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 9,
+  "fields": {
+    "first_name": "admin",
+    "last_name": "admin",
+    "email": "valiyevmuiz0407@gmail.com",
+    "address": "toshkent",
+    "postal_code": "123123123",
+    "city": "toshkent",
+    "created": "2024-08-17T09:39:47.708Z",
+    "updated": "2024-08-17T09:39:47.708Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 10,
+  "fields": {
+    "first_name": "unknown",
+    "last_name": "unknown75",
+    "email": "spcjvepihvnv@gmail.com",
+    "address": "4whe5u",
+    "postal_code": "he56hyue5",
+    "city": "he56u",
+    "created": "2024-08-17T11:20:08.997Z",
+    "updated": "2024-08-17T11:20:08.997Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 11,
+  "fields": {
+    "first_name": "Muiz",
+    "last_name": "unknown75",
+    "email": "afzaloripov007@gmail.com",
+    "address": "4whe5u",
+    "postal_code": "he56hyue5",
+    "city": "he56u",
+    "created": "2024-08-17T11:23:58.202Z",
+    "updated": "2024-08-17T11:23:58.202Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 12,
+  "fields": {
+    "first_name": "aslan2",
+    "last_name": "matyacubov2",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-17T14:25:43.635Z",
+    "updated": "2024-08-17T14:25:43.635Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 13,
+  "fields": {
+    "first_name": "qwerty",
+    "last_name": "matyacubov1",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-17T14:29:21.297Z",
+    "updated": "2024-08-17T14:29:21.297Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 14,
+  "fields": {
+    "first_name": "aslan(1)",
+    "last_name": "matyacubov2",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-17T15:52:07.267Z",
+    "updated": "2024-08-17T15:52:07.267Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 15,
+  "fields": {
+    "first_name": "aslan1",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-17T15:58:34.028Z",
+    "updated": "2024-08-17T15:59:10.918Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 16,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-20T09:19:00.382Z",
+    "updated": "2024-08-20T09:27:29.743Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 17,
+  "fields": {
+    "first_name": "в",
+    "last_name": "фыв",
+    "email": "rizamatmujsinov@gmail.com",
+    "address": "фв",
+    "postal_code": "ыв",
+    "city": "фыв",
+    "created": "2024-08-20T09:21:15.211Z",
+    "updated": "2024-08-20T09:21:15.211Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 18,
+  "fields": {
+    "first_name": "Xuy",
+    "last_name": "Xuy",
+    "email": "fltgenius13@gmail.com",
+    "address": "Maxtumkuli 1A",
+    "postal_code": "2",
+    "city": "Brazilia",
+    "created": "2024-08-20T09:32:03.470Z",
+    "updated": "2024-08-20T09:33:16.266Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 19,
+  "fields": {
+    "first_name": "muiz",
+    "last_name": "valiyev",
+    "email": "valiyevmuiz0407@gmail.com",
+    "address": "улица пушкина дом калатушкина",
+    "postal_code": "998",
+    "city": "Пушкин",
+    "created": "2024-08-20T09:33:38.376Z",
+    "updated": "2024-08-20T09:34:31.525Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 20,
+  "fields": {
+    "first_name": "Sh",
+    "last_name": "Whwh",
+    "email": "13@gmail.com",
+    "address": "Anns",
+    "postal_code": "Sjshj",
+    "city": "Hshshs",
+    "created": "2024-08-20T09:42:29.538Z",
+    "updated": "2024-08-20T09:44:03.089Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 21,
+  "fields": {
+    "first_name": "1236",
+    "last_name": "123",
+    "email": "rizamatmu@gmail.com",
+    "address": "1346",
+    "postal_code": "45654",
+    "city": "246tf",
+    "created": "2024-08-20T10:24:48.464Z",
+    "updated": "2024-08-20T10:24:48.464Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 22,
+  "fields": {
+    "first_name": "1231",
+    "last_name": "23",
+    "email": "rizamatmu@gmail.com",
+    "address": "rizamatmu@gmail.com",
+    "postal_code": "12355",
+    "city": "We8r8t",
+    "created": "2024-08-20T10:26:21.308Z",
+    "updated": "2024-08-20T10:27:12.023Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 23,
+  "fields": {
+    "first_name": "muiz",
+    "last_name": "matyacubov1",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-20T11:38:13.630Z",
+    "updated": "2024-08-20T11:38:13.630Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 24,
+  "fields": {
+    "first_name": "muiz",
+    "last_name": "matyacubov1",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-20T11:38:21.460Z",
+    "updated": "2024-08-20T11:38:21.460Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 25,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-20T11:38:57.270Z",
+    "updated": "2024-08-20T11:38:57.271Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 26,
+  "fields": {
+    "first_name": "aslan2",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-20T11:39:50.008Z",
+    "updated": "2024-08-20T11:40:23.624Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 27,
+  "fields": {
+    "first_name": "aslan2",
+    "last_name": "matyacubov1",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-20T13:25:02.756Z",
+    "updated": "2024-08-20T13:25:02.756Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 28,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-22T10:29:23.536Z",
+    "updated": "2024-08-22T10:29:23.536Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 29,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-22T10:33:10.313Z",
+    "updated": "2024-08-22T10:33:10.313Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 30,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-22T10:40:59.421Z",
+    "updated": "2024-08-22T10:40:59.421Z",
+    "paid": false
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 31,
+  "fields": {
+    "first_name": "Rizamat",
+    "last_name": "Musinov",
+    "email": "rizamatmu@gmail.com",
+    "address": "Qieie",
+    "postal_code": "W9wue",
+    "city": "Tashkent",
+    "created": "2024-08-22T10:45:03.004Z",
+    "updated": "2024-08-22T10:47:44.590Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 32,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-22T13:09:10.347Z",
+    "updated": "2024-08-22T13:09:42.352Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 33,
+  "fields": {
+    "first_name": "aslan",
+    "last_name": "matyacubov",
+    "email": "matackubovaslan@gmail.com",
+    "address": "botkina 6",
+    "postal_code": "23 B",
+    "city": "Tashkent",
+    "created": "2024-08-27T12:22:48.639Z",
+    "updated": "2024-08-27T12:23:15.233Z",
+    "paid": true
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 1,
+  "fields": {
+    "order": 1,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 2,
+  "fields": {
+    "order": 4,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 3,
+  "fields": {
+    "order": 4,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 4,
+  "fields": {
+    "order": 5,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 5,
+  "fields": {
+    "order": 6,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 6,
+  "fields": {
+    "order": 7,
+    "product": 3,
+    "price": "50.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 7,
+  "fields": {
+    "order": 8,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 8,
+  "fields": {
+    "order": 9,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 9,
+  "fields": {
+    "order": 10,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 2
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 10,
+  "fields": {
+    "order": 11,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 11,
+  "fields": {
+    "order": 12,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 12,
+  "fields": {
+    "order": 13,
+    "product": 3,
+    "price": "50.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 13,
+  "fields": {
+    "order": 14,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 14,
+  "fields": {
+    "order": 15,
+    "product": 3,
+    "price": "50.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 15,
+  "fields": {
+    "order": 16,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 16,
+  "fields": {
+    "order": 17,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 17,
+  "fields": {
+    "order": 18,
+    "product": 3,
+    "price": "50.00",
+    "quantity": 40
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 18,
+  "fields": {
+    "order": 18,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 19,
+  "fields": {
+    "order": 18,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 20,
+  "fields": {
+    "order": 19,
+    "product": 3,
+    "price": "50.00",
+    "quantity": 21
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 21,
+  "fields": {
+    "order": 19,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 22,
+  "fields": {
+    "order": 19,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 23,
+  "fields": {
+    "order": 20,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 24,
+  "fields": {
+    "order": 21,
+    "product": 2,
+    "price": "45.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 25,
+  "fields": {
+    "order": 22,
+    "product": 3,
+    "price": "50.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 26,
+  "fields": {
+    "order": 23,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 27,
+  "fields": {
+    "order": 26,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 28,
+  "fields": {
+    "order": 27,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 29,
+  "fields": {
+    "order": 28,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 30,
+  "fields": {
+    "order": 29,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 31,
+  "fields": {
+    "order": 30,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 32,
+  "fields": {
+    "order": 31,
+    "product": 3,
+    "price": "50.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 33,
+  "fields": {
+    "order": 32,
+    "product": 1,
+    "price": "30.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 34,
+  "fields": {
+    "order": 33,
+    "product": 5,
+    "price": "100.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "products.category",
+  "pk": 1,
+  "fields": {
+    "name": "Tea",
+    "name_ru": "Чай",
+    "name_en": "Tea",
+    "slug": "tea"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 2,
+  "fields": {
+    "name": "Food",
+    "name_ru": "Еда",
+    "name_en": "Food",
+    "slug": "food"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "Green tea",
+    "name_ru": "Зеленный чай",
+    "name_en": "Green tea",
+    "slug": "green-tea",
+    "image": "products/2024/08/13/green.jpg",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "30.00",
+    "available": true,
+    "created": "2024-08-07T19:38:16.941Z",
+    "updated": "2024-08-13T10:21:23.738Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "name": "Red tea",
+    "name_ru": "Красный чай",
+    "name_en": "Red tea",
+    "slug": "red-tea",
+    "image": "",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "45.00",
+    "available": true,
+    "created": "2024-08-07T21:57:52.786Z",
+    "updated": "2024-08-13T10:22:19.054Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "name": "Black tea",
+    "name_ru": "Черный чай",
+    "name_en": "Black tea",
+    "slug": "black-tea",
+    "image": "products/2024/08/13/black-tea.jpg",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "50.00",
+    "available": true,
+    "created": "2024-08-08T00:53:19.374Z",
+    "updated": "2024-08-13T10:21:13.561Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "category": 2,
+    "name": "palov",
+    "name_ru": "плов",
+    "name_en": "palov",
+    "slug": "palov",
+    "image": "products/2024/08/13/Снимок_экрана_от_2024-08-10_02-03-06-2.png",
+    "description": "",
+    "description_ru": "",
+    "description_en": "",
+    "price": "100.00",
+    "available": true,
+    "created": "2024-08-13T10:19:06.282Z",
+    "updated": "2024-08-13T10:56:44.496Z"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "social_django",
+    "model": "association"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "social_django",
+    "model": "code"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "social_django",
+    "model": "nonce"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "social_django",
+    "model": "usersocialauth"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "social_django",
+    "model": "partial"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "products",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "products",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "orders",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "orders",
+    "model": "orderitem"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "18priawq1ed8sz3cezy4bffo8wfxh9h4",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1seaK6:ATm5M_hDb3q-gS1vgdMDZG6r1brOPBeS9pvU-hJ6dSw",
+    "expire_date": "2024-08-29T13:15:26.695Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1ggove1itjsqzyvilld4snbz1tjs4bpy",
+  "fields": {
+    "session_data": ".eJxVjDsOgzAQRO-yNbJs8Aco0-cMaO21g5PIJMYUEeLuAYmGZop5b2YFh7lAv0JzxHfBVGL5QS8q-OToPPSgOOMctq2CAZcyDsvs8xBpJwIunUX38ukA9MT0mJibUsnRskNhJ53ZfSL_vp3u5WDEedzX2oS2qw2RarhVWOs2KCuM6ILnlruGUBNxJTuhLAajtNMGZR2IjCD0ErY_2ARFTA:1sewDw:V01_b5w5BVkNE6SDopYqc0e1hGIuZsi3HdBKVOp1gjA",
+    "expire_date": "2024-08-30T12:38:32.435Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1r6txvjnjgupp07jd5q40ifmykvfza6s",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sfHJ7:j4BUKT2YsW51gJ139gfo9ufUt1K4tJv3VMrFoenH1Os",
+    "expire_date": "2024-08-31T11:09:17.287Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "20trdm0rftt1eje7abbyp1uax8lwebl8",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1seEsq:ztLT8VR3cwAweYX06HhuUUdsBz3Vm1CHtC62AMbRPjY",
+    "expire_date": "2024-08-28T14:21:52.841Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2u7jvmcisfqc8p8hzf9alcgaw9s57bgm",
+  "fields": {
+    "session_data": ".eJxVjEELgjAYhv_LziVO3abejAiKOlQUdJJv-zatxMW2ggj_ewldvL7P87wfosAFUn6GGWmsbTo9t_AMbVL7AEGTkphOHl11ei0Oj73rMrGtzisfNrTYX8R7nS7JjNRjUT-9dvUVfwmdbhLUXfcjwBv0jY2U7YO7ymhUoj_10c6i7hZ_d3LQgm9_NRcmLxKByNJYMkh4bpikghZGxzJWKQJHjFlWUCbBCMYVF5AlBlFQBJ2R4QvUv05t:1sedQU:KBgyrefYdqBpH23HcVLMQc-zM9wKf89OJbd_JqImgtE",
+    "expire_date": "2024-08-29T16:34:14.217Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "30nl7bp7r6eco6mbxiaej7wnmq6trk6o",
+  "fields": {
+    "session_data": ".eJxVjkEOgyAURO_C2hBAPojL7j2D-fCh2jaSIK6Md68mLtrtvJmX2dmIW53GbY1lnIn1TLLmN_MY3nG5AL1weWYe8lLL7PlV4Tdd-ZApfh53908w4Tqda2NT55QlglZ4QGW6BF5a6VIUXoSW0BAJ0E6Cx2TBBGNRq0RkJWHUpzQXuk9KaFjAUlm_H8cXfh8_2Q:1sfLpv:kKBBmmtpZbvtK7vPIDgRG3cLOAAbciEzv2TC6gvUYpY",
+    "expire_date": "2024-08-31T15:59:27.989Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "3frn0z8z9tbxe82kfh42ypmlk0lxsa49",
+  "fields": {
+    "session_data": ".eJxVjMsOgjAUBf-layXYB1CXLDWQ6MJEN81te3lJqJaiJsZ_FxI3bs-cmTepnat7XDuYQkPVGCAg2ZI8PooWXqW4Fz7d3R7dYc-fNrWsPHV4OVdkRdRiqGlEr1o7K_R_02CuOCzAdjDULjJuCL7V0XKJfnSMCmexz3_fv0ADYzPbidDAZGy5TAF1gmkGIuFM6MpIamWVINtkjPNsxtKgpZTFsamY2XAJBmGOGvCBbN-fzxf9aE64:1seaRa:hJg1KPqGPRJkYhj8LtJhWgXkumsOmJOoPQN_VuscpKI",
+    "expire_date": "2024-08-29T13:23:10.645Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "3txnj3gemgwedqv40oimkjzvp3whkm8m",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgLCP:OZ2_Jdn-EQWLWCeQWIx-GjdsmwgDh_olkF8uyJB5AUw",
+    "expire_date": "2024-09-03T09:30:45.746Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5c3k1rl4iw1d37l9qc4814fkkt3ij9pj",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgLBD:Ux0Riqafh3iECnetEhsyaNHL-ZCUCjduGSTULsyZ3_0",
+    "expire_date": "2024-09-03T09:29:31.722Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5mfrn8dtqr5k2jhplz4akypd3w3gk9nv",
+  "fields": {
+    "session_data": ".eJxVzMtugzAQBdB_8TpFtnlnB-kii0RVVaUlKzQe20ADdgCjpor494IUVcpmpJl7z9wJwuDI9k78dfQTGNe4X7JlG3IdGlRkS0LqUUrmeUOqxtWTKEcHbg2yQshDbpP80J7OtM3wzKf9F8O9-axvNnsni7C2atWLhcnV_B_uulPR4XB5Dd5YTz8sGnfrTZDn3fVHyOK4wHIV5TSqoWzkQhh9PgrAizJrIr_BVNZDa9zQCG-teI909I5WqjZ_dJ8e1DDWi0bOolRBwmnqg440pKg1Q19BLAIpYiUDH9JEM72sURAnlIPgYQgxigjikMx_5Bdqew:1seaNd:_9b6lHohXdgFw4XgMQgm0SzPek4a8NMmtAgcsWRVgww",
+    "expire_date": "2024-08-29T13:19:05.928Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "6wsbfzrzef0z54419e64k1qn0clphuhk",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sh4ua:5I_eW_9SuMY6qgn1npWDngEPisMiBh6lbt4dUt1WnHo",
+    "expire_date": "2024-09-05T10:19:24.335Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7gr283ej36vjcvzaiwcqdxojcfn1nn5y",
+  "fields": {
+    "session_data": ".eJxVjssOgyAURP-FtSGAPNRl934DuXCh2jaSAK6M_15NWLTbOTMncxALe13sXkK2K5KJcNL9Zg78O2w3wBdsz0R92mpeHb0rtNFC54Th82jdP8ECZbnW2sRhFAZR9cwpEHqIynHDxxiYY75H0IhMyZErB9Eo7bUBKSKi4QhBXtKUsZ3sRUc85Eqm4zy_fhU_2A:1sh7Zd:cKv_XkkrDhp25yaid17_qnYzzgvi_C2zdUWo2s10LXA",
+    "expire_date": "2024-09-05T13:09:57.723Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8roxaww90gb1fp6x553jh7giecxd8mp0",
+  "fields": {
+    "session_data": ".eJxVjsEOgjAQRP-lZ9J0W4uUo3e_gWx3t4IamrRwIvy7knDQ67yZl9nUgOsyDmuVMkysemWtan7DiPSS-SD8xPmRNeV5KVPUR0WftOp7Znnfzu6fYMQ6fteeIwb2xicWa0O8CMX26pyQcSb5AOw7FABjfWhTsiaAbQUooXQE8ZDmwudLB40iLIvqt33_AL-3QCo:1sh5M4:MoBA-q9UHBmbEjMv9mHA1jDr4EF4_Ox4BKczuXit_P8",
+    "expire_date": "2024-09-05T10:47:48.042Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "900iwty8rlna0pgrseom2ktkjdvcya37",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgKzg:Zh4R8_KY4z-gIClfpUZiD7o1k_P1BCUshi2bV_1ooVI",
+    "expire_date": "2024-09-03T09:17:36.671Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "98npp0hx7d467f8gibv65o21ozer5e9r",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sfFrA:WEFiM5ZmJ5D7Wyfh-qyQnBVpmSCrYE8-cyL5xSb7xx0",
+    "expire_date": "2024-08-31T09:36:20.093Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cnpmx184ko4yufksk4mzeve5ws761mpd",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgLC7:8ialHBrfDkQZSKu7lbGU5mY5VKQG-WvVXSk4uQyjW7I",
+    "expire_date": "2024-09-03T09:30:27.997Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ctzl0ka8nm6olse1vf3pbfuk35mi79al",
+  "fields": {
+    "session_data": ".eJxVjEEOgyAQRe8y64aAAqMuu_cMZmCg2DaYgK6Md29N3Lj9772_g6eywrAfD5hoW9O01VCmmWEABbfNkf-EfAJ-U34twi95LbMTpyIuWsW4cPg-L_d2kKimf20xdn2DzKaVzlBju2icQtXHIJ30LZNllkb3yjiKaKy3SLqJzKiYgobjByZxO4E:1sfHaQ:B5gBT6CecP-y4yn1JLzCKHV_bxemEcBD7ysL9YKoYMg",
+    "expire_date": "2024-08-31T11:27:10.504Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "d7ed4qirfgx830jazcavinpf8c5dvgtl",
+  "fields": {
+    "session_data": ".eJxVjssOgyAURP-FtSG8UZfd-w3kwoVi20iCuDL-ezVx0W7nzJzMThxsLbttjdXNSEbCSfebeQjvuFwAX7A8Cw1laXX29KrQm650Khg_j7v7J8iw5nNtbOoHYRG1ZF6DMH3Snls-pMg8CxLBIDKtBq49JKtNMBaUSIiWI0R1SkvF-6SUHQlQGxn34_gCfiE_2Q:1sivEO:S8UffW4wV3nWDeu2TzQ82_W0KksbSVCBTcPaCrC0WXk",
+    "expire_date": "2024-09-10T12:23:28.672Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "eipbfucpu5aeby9ou0gc1y9wbm6vk6iz",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgLBL:ITZUHM8QU5-rqJePZiLqK4M5-OTSpN01oJ_0oJHw-pE",
+    "expire_date": "2024-09-03T09:29:39.082Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "f542ft1a5qm192hhmkd6ei9t5dsmdny8",
+  "fields": {
+    "session_data": ".eJxVjjEOgzAQBP_iGlkYbIwp0_MGdHe-CyQRlgxUiL8HJIqk3dkd7a4G2NZx2BbOwxRVp0xQxW-IQG-eLxJfMD-TpjSveUJ9VfRNF92nyJ_H3f0TjLCM5xqDAHpy1kMtVZSKiCpowDWBA4ktGUu0aMqamFtsxVvjXQuCLlis5ZSmHO-XJhSKIK-q24_jC_6_QQQ:1sgLG6:eCJdeChKbegrPlW9ZrvauRer8km6BxLtvkxq2mpM0x4",
+    "expire_date": "2024-09-03T09:34:34.295Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fp4zbets0culym0tsr10dtnipauvsm96",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sfFr9:yQppVD0gBRhbZD3ijf4y-u2O2pGszx1lXBegVH5zbJU",
+    "expire_date": "2024-08-31T09:36:19.407Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hgb0iqn0kec3zjsuccqv42c7qceqtii9",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sebGD:HXg_79227VhTAniompTl6FuCGS1lC3ErcUWxBd4RFzs",
+    "expire_date": "2024-08-29T14:15:29.130Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "iwad636oijtwn7pz3puz6udpwy86jw34",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sh5HY:FnRLgk1EofgYFYGfU5wnaH1GH9_eLiWHm24AhiqhY68",
+    "expire_date": "2024-09-05T10:43:08.864Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "iwkp08o7af3r6yjhbam1z8orzmgozpq9",
+  "fields": {
+    "session_data": ".eJxVjkEOgyAURO_C2hBAAXHZvWcgHz4U20YS0JXx7tWERbudN_MyB7Gwb8nuNRS7IJkIJ91v5sC_w3oDfMH6zNTndSuLo3eFNlrpnDF8Hq37J0hQ07VWOo5GaETZMydBqDFKxzU3MTDHfI-gEJkcDJcOopbKKw2DiIiaI4ThkuaC7aQwHfFQNjId5_kFflw_3g:1sh58d:6dEwI-yhB-o7xhcJCs8xKQnGZchwLK2uzq9Xa2MbQWM",
+    "expire_date": "2024-09-05T10:33:55.891Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jkj95niwl2wsznfbnrbatk0rrtvaojht",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sh4uZ:dOieZ24maicOiMXkLe2hy358Ou--YJlL_E_LDERkkTo",
+    "expire_date": "2024-09-05T10:19:23.542Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kll99in3xolk73tt0xxxceqv9r3dofhb",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1siwTL:9pJ5SHTOZb8SpUmKqO88qaK_PFE1ZNbaF1vWQJR9RaY",
+    "expire_date": "2024-09-10T13:42:59.473Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "l754c3w2qch3cpu62nitupov257b8mix",
+  "fields": {
+    "session_data": ".eJxVjEEOgyAQRe_CuiE4oAwuu_cMZoCh2DaSoK6Md29NXLTb_95_uxhpW_O4LVzHKYpeNK24_Y6ewovnk8QnzY8iQ5nXOnl5KvKiixxK5Pf9cv8CmZb8fTMZMMguJKUdcVKgOo1oXXToAFPjwHhPBgGVgkZj7BgDYGDE1tozGqiuot-P4wMprTqK:1sfHXK:vIrJtQuj3Rh4njoTckN_5wjdcLYkdas0i_lI2ntCkII",
+    "expire_date": "2024-08-31T11:23:58.231Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lb8lc7ns9qaars7dupyu6vp1ubuv5jmc",
+  "fields": {
+    "session_data": ".eJxVjsFuwjAQRP_FZxqtjU0NR-gFtRGX3qP17pKEhliNnSoS4t-bSLlwnTdvNA9Vx1h38hZxzI2pUsYs6qC6-FUex-3nuZz-LvauPyaabt-X35Px7FtOaqOqxajGJEPV8qxo_xoGpB_pF8I37OtYUOzz0IZiqRQrTUUZWbrj2n0ZaDA1s43oCLf-agEtCxHsiTTIu5UAhg04AyHsTbBeB7PTDBrIXkmMh51z1s2jceD1pfYbRThkdXg8n__a-VMD:1sgLEr:FgtDRWGOcGAq7Spg-XpibZwC-6tVLRAizxA-n7PWSyU",
+    "expire_date": "2024-09-03T09:33:17.491Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lc97ooq0xfrsbqnnddaw79c4vc4i5c63",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sewFR:0HknfFNtSyzhNdIn5OQ5aJ2VFOdDlcMJZKEO5VjP5OY",
+    "expire_date": "2024-08-30T12:40:05.908Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lfl6bh3pj5ae035oso7a831uc9roo264",
+  "fields": {
+    "session_data": ".eJxVjk0OgyAUhO_C2hB-FMVl956BPHhQbRtIAFfGuxcTF-1uMvPNZA5iYK-r2YvPZkMyE8FI92tacG8frwRfEJ-JuhRr3iy9EHqnhS4J_edxs38DK5S1tfU0Kg1MolToUdqAlvehaev7gDg4jchgCBMXPig2cRhBSq60HTQXwbXRlPF-KVhHHORK5uM8v-J-QJw:1sgLPJ:TN0VJwOg2kOyFsLs3CHzc6L8ZUw3Swc7rV56bhdoU-0",
+    "expire_date": "2024-09-03T09:44:05.136Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lskodk79fcf2a42jmp4btllx0gfxe794",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sfGIK:SwKSMIudpdBO1TitqBjTm599ate29K9soNaezcBcMW4",
+    "expire_date": "2024-08-31T10:04:24.774Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "m8fg8ysx7d7y17rqa91w4dpb0unxpn39",
+  "fields": {
+    "session_data": ".eJxVjtFqwzAMRf_FzyXEnRXSvhVGytaxMgaD9cXIsrSEZjXEDqUr_fd5I4X2TVzpHp2zIhySWp4vMyVI7ELY25gwsVqqx7fPn6c1le-nze7j9G1e17p72TXNoJ-PTTlu1ExZHFNrx8iD7XyuwH3mkPZ8-FvEQB32lsLAxZTG4vqxaKZhu8rV-T2jxdhmgIDUYoSqkhGMWQDUZDRC7Z040VBWDg085CMEnosYzwshV3ntKyY0GTo5_KN7jMn24as73EhefdTlFzurXzQ:1sedLM:eU326Hlm7MykUku6dbgE3NGHrOaME-CRmBeJJPyqmKY",
+    "expire_date": "2024-08-29T16:28:56.759Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ma8tclzq08ie7b6oldwvv34mc79fy4oj",
+  "fields": {
+    "session_data": ".eJxVjkEOgyAURO_C2hBA4IvL7j2D-fCh2DaSoK6Md68mLtrtvJmX2dmI25rHbYl1nIj1TLLmN_MY3nG-AL1wfhYeyrzWyfOrwm-68KFQ_Dzu7p8g45LPtYXUOQVEphXeoLJdMl6CdCkKL0JLaImE0U4ajwmMDRZQq0QEkjDqU1oq3ScVNCxgXVm_H8cXfkQ_3A:1sgOsA:iuCGvDvyo5xb86o3cubIY7rR3jGLdPdpsqdWO_X7yv0",
+    "expire_date": "2024-09-03T13:26:06.952Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "n9fc8eiabvw1y051jdxvsd29sd3a6doj",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sewFC:eSaMLoNDFW6SEQJtzEy9-44oLfVCUFBYUMo2gEir1pY",
+    "expire_date": "2024-08-30T12:39:50.838Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "nabjq6hzar0o38cvyv450owntizm8qs1",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1seaGJ:Pzw19jWnhTizPzXQhbXrayC7XVQQBP_gguhAHPjxbrE",
+    "expire_date": "2024-08-29T13:11:31.648Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "oqg19q2uco3tdwvmq9imget5ph46xq2v",
+  "fields": {
+    "session_data": ".eJw9y7EOgjAUQNF_eTOailaFTcFIEGFycTEFoRCgr9TXREL4d8PicqdzJyiEIfAn4EsGKxQ1NILPHdCmKUrwYcPYmjGYZwckouzKFQpLtfv6kKAFXJXJIhZ7lOqgHVXsnrZ6eOz78PxN8cCP4EAlijJHbP-Pfd9M9bw00gSYJP1Y2_4-7FIvMlyHrMtg_gEzsjLn:1sebPp:fiNbgJLLtqoR7z-WKJdNQXtQdyGBPaGuqufOKFRbkrU",
+    "expire_date": "2024-08-29T14:25:25.679Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "oxp7zew9icq7f6zpgwipq2pv2tgpcosd",
+  "fields": {
+    "session_data": ".eJw9y80KgjAAAOB32blgVLbyJkpSqZGtzC4xx_xpk83cAhXfPU9-928AlHw1sIdxAQopC8GWkhhdrt6tJpoBG_BfmLt9Z5wW-QblkQr5oTOsMfVLWjuowBQrXZpsHl71EJtG4YSo7U2dUFn3btppp3Yjtk4-92nkhLJMSj4fDSEOLEwohFJcfIz2ferFlDtxcz0G5ycY_987OjE:1seb3R:-hnUjD7MyD-Db1ZkNjnn5Rp-O-iR4nAI0QVqEDeiIxs",
+    "expire_date": "2024-08-29T14:02:17.260Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "p0ebhvv23t6qefp1qj9s7el74isv8gpx",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1seaGP:f-ZqBaDpxrdPWBTFShtjKiTITY0BVzV3MBKNjS4uUkk",
+    "expire_date": "2024-08-29T13:11:37.247Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "pgsb9rbir0hpa53vnqjyfwk408i5h5kk",
+  "fields": {
+    "session_data": ".eJxVjDsOgzAQBe_iOrJsFrJeyvQ5A1p_NiaJQMKmQtw9QaJI2jfzZlMDrzUPa0nLMEbVKwvq8jt6Dq80HSQ-eXrMOsxTXUavD0WftOj7HNP7drp_gcwlH2_jwRqxEA1Gcl4sE0AHSYRbF00nREKIjCDSkCdDV2LGVoACuuYbDbxU1W_7_gFIpTtF:1sfFuv:oFry7Uykv-ka6pW9B_37xYIr345KqxAK7T71fvtM-D0",
+    "expire_date": "2024-08-31T09:40:13.535Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rhipvcows2xeuwuo9yvl7w91g3c32nyf",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7IjEiOnsicXVhbnRpdHkiOjEsInByaWNlIjoiMzAuMDAifX19:1sfG4x:GTu5BChhxWg-g--3oL_kvyugiRpN3H0GQtjXWQuubgE",
+    "expire_date": "2024-08-31T09:50:35.197Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rybs7ziey9jv6v2jcjmxurs7z0oy7vqk",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgLBE:oWmGIMLWp_JndMhmFoZ2g9HbbysUH5aTqGu71uiC5Dg",
+    "expire_date": "2024-09-03T09:29:32.962Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "srph7ngzw8l23i6sa8pqhk5gpz38q2o6",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fSwiZ2l0aHViX3N0YXRlIjoialY5aUVjMTdINFBDU3ljS25TYlFOUWdHQmxRVFJnRGciLCJnb29nbGUtb2F1dGgyX3N0YXRlIjoidklWNjAwZFE3T1B5NVlKcVhiUVpFZXMzM2RMRk5Sc00ifQ:1sed7k:mTFEe-EELu6osRT5YhWblRNELI2BOAYeLGI_Wx_6YdA",
+    "expire_date": "2024-08-29T16:14:52.942Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "sxoqewm1qyu83vcps1pfthrt377c2vl6",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1seX0t:TF9HtorX0aU2rRZU3gasC0nbUzig3eQgwtHO5uBH8Jo",
+    "expire_date": "2024-08-29T09:43:23.185Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tkdptyy0diwkjs7824eefjgd50b8hezh",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgLC7:8ialHBrfDkQZSKu7lbGU5mY5VKQG-WvVXSk4uQyjW7I",
+    "expire_date": "2024-09-03T09:30:27.090Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tv3kv5n0g8flrqec19a5m9h02fdk310c",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sh4wI:XEMYnQtzCRKOObGNxDo6yvzFQGlfXtXpDe0Gp359jyA",
+    "expire_date": "2024-09-05T10:21:10.392Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "uqiooxgky5dg4n4xt1r2mak0bsxkaixw",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7IjUiOnsicXVhbnRpdHkiOjEsInByaWNlIjoiMTAwLjAwIn19fQ:1sex5Q:DeibcyAYkls9-smf-cmILxNsV5krjd5uCJuI5RKvLqM",
+    "expire_date": "2024-08-30T13:33:48.662Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vh8ya1ebzv8db7bf6n3esn5w4ysrsh9b",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sed4q:P6Ct7kc2SGEjYlz4YKN8UcurYhDQg3n5DI6R8w-Hecc",
+    "expire_date": "2024-08-29T16:11:52.124Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vvygu0v7tos18dazdj5hgh1ipgdakumr",
+  "fields": {
+    "session_data": ".eJxVjMEOgyAQRP9lz4aAFhY89t5vMAuslbbBVvHQGP-9mvTiZQ7z3swKgaYC7QrNEZ-FcknlC62q4D2lwNCClkJK2LYKOlrK0C0zT12KO6kVnEpP4cn5IPFB-T6KMOYyJS8ORfzpLG5j5Nf1754OBpqHfc0YnEZjDV0iN54wKg4RnWNjrW-4t96iq12QSMbVRnrsbVTaWaXRW4btBxwORSs:1sgLTw:7WH7Lu7Lln6T_8FZ0ZR0BsMg_u-IukI4dGC9ldxBntA",
+    "expire_date": "2024-09-03T09:48:52.818Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vwmhmu69l87tgaueqtea5ams1nuldadh",
+  "fields": {
+    "session_data": ".eJxVjsEOgjAQRP-lZ9K0i0XK0bvfQLa7W4sampRyIvy7knDQ67yZl9nUiGtN47pIGSdWgwJQzW8YkF4yH4SfOD-ypjzXMgV9VPRJF33PLO_b2f0TJFzSd-04oGdnXGQB8OEiFLpr2wqZ1kTnLbsexVoDzncxgvEWOrEUUXqy4ZDmwudLgEYRlqqGbd8_v7ZAKg:1sgM54:VLNlJBxKVOYwu5N8Bk011eMfZazlDP5-NySRvycQGG8",
+    "expire_date": "2024-09-03T10:27:14.913Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "w2fhcvdyxmhvpxfpsbd13vq1mgxgxapd",
+  "fields": {
+    "session_data": ".eJxVjEsOgzAMBe-SdRWVuE4Dy-45A7Idp6GtgsRnhbh7QWLRbt_Mm9V0tMy5WyYduz6axlSVufyOTPLWcpD4ovIcrAxlHnu2h2JPOtl2iPp5nO5fINOU93cQEEpyI_XeQXJ6BcB78F4rB8EhMQSsEyNjZFCfuFbvJEZFxACwR4XG2TTrtn0BT7A7jA:1sebRg:-susGS38HuKWTaMXIxUJ7xKulmZMaiPGsX6tIBufprM",
+    "expire_date": "2024-08-29T14:27:20.896Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "x54ebq8tak7iamiukrk5jzbzo9ynkxfu",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sfGIY:qMVna2EXYnRiUGkLXvCjXtSuKAT2TFVm8uE3VLwlrA4",
+    "expire_date": "2024-08-31T10:04:38.903Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "y10fucemkp9s9p9fm09uwtctydil9b4g",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgL84:rW3Knx7Kc39XDaHKP8SMdj7t9gBBRGrVuPGtjZF5cCY",
+    "expire_date": "2024-09-03T09:26:16.529Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "y3ve2hj7bkfm7p4f7r4mrg5st5acdcun",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sgLCd:USFGw0vsUSvqVQ0zM6YDx0zoNeR_XIwD9tv3tX-zrdw",
+    "expire_date": "2024-09-03T09:30:59.894Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ykd39qzxvlbb08gw42fdnc08f7hiaiqo",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1seX0W:lekOffzUiJ9IUMKCPPUARtMQ1UdNnK-6QWXxfuu7zM0",
+    "expire_date": "2024-08-29T09:43:00.748Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ylzoloyngcdczyoagm7s9hidf21a517u",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sewFC:eSaMLoNDFW6SEQJtzEy9-44oLfVCUFBYUMo2gEir1pY",
+    "expire_date": "2024-08-30T12:39:50.027Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "z5h679zjj2a2bpqcuj909h8ixxkwikkc",
+  "fields": {
+    "session_data": ".eJxVjEEOgyAQRe8y64aAAqMuu_cMZmCg2DaYgK6Md29N3Lj9772_g6eywrAfD5hoW9O01VCmmWEABbfNkf-EfAJ-U34twi95LbMTpyIuWsW4cPg-L_d2kKimf20xdn2DzKaVzlBju2icQtXHIJ30LZNllkb3yjiKaKy3SLqJzKiYgobjByZxO4E:1sh5ON:T_3C7WTvTKDX5yN1iB1RH2Bsgqg5pOSPdBsVW6H0pYg",
+    "expire_date": "2024-09-05T10:50:11.751Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zbi7ph382nyvnjfhsa0cvfvksrndtjw9",
+  "fields": {
+    "session_data": "eyJjYXJ0Ijp7fX0:1sje8X:tkN9pUDjspUhHs_XPm8Vxlo99ZInWyBcMboCTEuvADI",
+    "expire_date": "2024-09-12T12:20:25.785Z"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": [
+      "admin",
+      "logentry"
+    ],
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view permission",
+    "content_type": [
+      "auth",
+      "permission"
+    ],
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view group",
+    "content_type": [
+      "auth",
+      "group"
+    ],
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view user",
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view content type",
+    "content_type": [
+      "contenttypes",
+      "contenttype"
+    ],
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view session",
+    "content_type": [
+      "sessions",
+      "session"
+    ],
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add association",
+    "content_type": [
+      "social_django",
+      "association"
+    ],
+    "codename": "add_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change association",
+    "content_type": [
+      "social_django",
+      "association"
+    ],
+    "codename": "change_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete association",
+    "content_type": [
+      "social_django",
+      "association"
+    ],
+    "codename": "delete_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view association",
+    "content_type": [
+      "social_django",
+      "association"
+    ],
+    "codename": "view_association"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add code",
+    "content_type": [
+      "social_django",
+      "code"
+    ],
+    "codename": "add_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change code",
+    "content_type": [
+      "social_django",
+      "code"
+    ],
+    "codename": "change_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete code",
+    "content_type": [
+      "social_django",
+      "code"
+    ],
+    "codename": "delete_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view code",
+    "content_type": [
+      "social_django",
+      "code"
+    ],
+    "codename": "view_code"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add nonce",
+    "content_type": [
+      "social_django",
+      "nonce"
+    ],
+    "codename": "add_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change nonce",
+    "content_type": [
+      "social_django",
+      "nonce"
+    ],
+    "codename": "change_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete nonce",
+    "content_type": [
+      "social_django",
+      "nonce"
+    ],
+    "codename": "delete_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view nonce",
+    "content_type": [
+      "social_django",
+      "nonce"
+    ],
+    "codename": "view_nonce"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add user social auth",
+    "content_type": [
+      "social_django",
+      "usersocialauth"
+    ],
+    "codename": "add_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change user social auth",
+    "content_type": [
+      "social_django",
+      "usersocialauth"
+    ],
+    "codename": "change_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete user social auth",
+    "content_type": [
+      "social_django",
+      "usersocialauth"
+    ],
+    "codename": "delete_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view user social auth",
+    "content_type": [
+      "social_django",
+      "usersocialauth"
+    ],
+    "codename": "view_usersocialauth"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add partial",
+    "content_type": [
+      "social_django",
+      "partial"
+    ],
+    "codename": "add_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change partial",
+    "content_type": [
+      "social_django",
+      "partial"
+    ],
+    "codename": "change_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete partial",
+    "content_type": [
+      "social_django",
+      "partial"
+    ],
+    "codename": "delete_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view partial",
+    "content_type": [
+      "social_django",
+      "partial"
+    ],
+    "codename": "view_partial"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add category",
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change category",
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete category",
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view category",
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add product",
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change product",
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete product",
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view product",
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view order",
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add order item",
+    "content_type": [
+      "orders",
+      "orderitem"
+    ],
+    "codename": "add_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change order item",
+    "content_type": [
+      "orders",
+      "orderitem"
+    ],
+    "codename": "change_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete order item",
+    "content_type": [
+      "orders",
+      "orderitem"
+    ],
+    "codename": "delete_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can view order item",
+    "content_type": [
+      "orders",
+      "orderitem"
+    ],
+    "codename": "view_orderitem"
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$wbUzHKfNw5jAYU9hjOqS48$6ipMZ/83S3SkNjwtHXPyK0f1aU85GJgFMstMWHjFMd8=",
+    "last_login": "2024-08-27T12:22:16.989Z",
+    "is_superuser": true,
+    "username": "aslan",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-08-06T11:38:12.493Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "!ZQYqw33fpR1P6jXqDAX95nfWDHJvbsdDPxvg9lfQ",
+    "last_login": "2024-08-15T16:20:22.293Z",
+    "is_superuser": false,
+    "username": "AslanMatyackubov",
+    "first_name": "Aslan",
+    "last_name": "Matyackubov",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:37:54.345Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "!q1GCGfVFyfceoFhHhqxP1eAL7V6NZeK6fHTn0n1Q",
+    "last_login": "2024-08-15T16:19:50.649Z",
+    "is_superuser": false,
+    "username": "19Pleyer",
+    "first_name": "АСЛАН",
+    "last_name": "19 pleyer Матячкубов",
+    "email": "matackubovaslan@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:38:07.754Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "!2QGHaXO7liTdWFCOJ67Pua226r4pK82VzOemMP29",
+    "last_login": "2024-08-15T16:19:23.518Z",
+    "is_superuser": false,
+    "username": "matackubovaslan",
+    "first_name": "АСЛАН 19 pleyer",
+    "last_name": "Матячкубов",
+    "email": "matackubovaslan@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-07T18:38:13.297Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$MKMzbPZ82eZsbX0lK7b69v$CxfRzRnVkJoKBkvSzkB8JWjGmFVakpcUwfCqhm8NR+Y=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Pizdaliz",
+    "first_name": "Чушпан",
+    "last_name": "",
+    "email": "yaEbu@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-16T13:35:18.363Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$9coInrHpoRkfQjP208Fs5B$NPtGsqXD69v6TPdhFcHRpTe+MaWOnCL0LILsxHFQwkc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Qjzhhxhd",
+    "first_name": "Snsbx",
+    "last_name": "",
+    "email": "sjjs@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-17T09:51:35.093Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$PMEWIH5SaTHjHLmFWV5Rmn$OBjS0oQQgkjWiAdE7wVuOYqHWkgkfVUHqFyktzKYLMc=",
+    "last_login": "2024-08-17T11:19:38.156Z",
+    "is_superuser": false,
+    "username": "Afzal",
+    "first_name": "Afzal",
+    "last_name": "",
+    "email": "spcjvepihvnv@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-17T11:19:25.664Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$ot7QsIeBs4Eb7ADMXnJ54I$QtWncpmmRoNmHz9sno+Wtj4KLliWzCUCxdoly2v1lcs=",
+    "last_login": "2024-08-20T09:31:12.032Z",
+    "is_superuser": false,
+    "username": "Мухаммад",
+    "first_name": "Мухаммад",
+    "last_name": "",
+    "email": "fltgenius13@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-20T09:30:46.353Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$xcIhxzMOdiZS9q7gSlvjFB$NIY7IBev5kWqw3a9EDcsfh2w3ImOVCZFew2fejXTZmw=",
+    "last_login": "2024-08-20T09:32:10.724Z",
+    "is_superuser": false,
+    "username": "admin",
+    "first_name": "admin",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-20T09:32:03.783Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$qV9b4LqpXG0yqkg3iaLVR4$7Qex1GLDa79CyjANS4ZR6W3su3zvHHGtfi4EJtt7JOs=",
+    "last_login": "2024-08-20T09:41:53.968Z",
+    "is_superuser": false,
+    "username": "Salam",
+    "first_name": "Salam",
+    "last_name": "",
+    "email": "salam@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-20T09:41:37.516Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$600000$1eqKONGbiFCA980LViJ5fP$hjlYnhBtDOWIdlg2EL3WIugNfCzzL/n/ZV/VBwY3hDo=",
+    "last_login": "2024-08-22T10:44:44.441Z",
+    "is_superuser": false,
+    "username": "Magnat",
+    "first_name": "Magnat",
+    "last_name": "",
+    "email": "rizamatmu@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-20T10:23:06.486Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "AslanMatyackubov"
+    ],
+    "provider": "facebook",
+    "uid": "541756271513137",
+    "extra_data": {
+      "id": "541756271513137",
+      "expires": 5183998,
+      "auth_time": 1723738822,
+      "token_type": null,
+      "access_token": "EAAHS52IPF60BO0vUDgM2ZCqaLKjsFjcYOLQRLsmSVO0CNVZARm3lSuvAeY1n5zclwRnmxAC9iSzb9XdutjmtK5oB3o6ZCIDYQ8ZChutj5f8oHZBRASMtTyFSnrupsk8nhFCSMbcZB4xwoGCD2TEUTDJQNKIqHTfQTZCZBGZBDKrGt1lG2FKLuCpqtWHadfoKe4PCZBOt1YVCmZA68YILd57QGDURmoRnSZBQwUbFXfPUcgLy1ePWbAmAzAXE",
+      "denied_scopes": null,
+      "granted_scopes": [
+        "email",
+        "public_profile"
+      ]
+    },
+    "created": "2024-08-07T18:37:54.359Z",
+    "modified": "2024-08-15T16:20:22.275Z"
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "19Pleyer"
+    ],
+    "provider": "twitter",
+    "uid": "1689743244824137729",
+    "extra_data": {
+      "id": 1689743244824137729,
+      "auth_time": 1723738790,
+      "access_token": {
+        "user_id": "1689743244824137729",
+        "oauth_token": "1689743244824137729-7KRfg0U9uRNur4CBunMfAo71qEz1uq",
+        "screen_name": "19Pleyer",
+        "oauth_token_secret": "VtrqUScyEZV2Ffdc1p70XdCGJZ0WVDaVdXVzu1AnizuRd"
+      }
+    },
+    "created": "2024-08-07T18:38:07.767Z",
+    "modified": "2024-08-15T16:19:50.630Z"
+  }
+},
+{
+  "model": "social_django.usersocialauth",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "matackubovaslan"
+    ],
+    "provider": "google-oauth2",
+    "uid": "matackubovaslan@gmail.com",
+    "extra_data": {
+      "expires": 3599,
+      "auth_time": 1723738763,
+      "token_type": "Bearer",
+      "access_token": "ya29.a0AcM612zEdxjz-aYuOcHz5Nonk6OTaqATbvljo3jSRF1ATlZAjkuyLKVY3k5KEdUsaqBLQXpM4niMXv54dJrMDT-7LtftFrfX84XEoKNg3F57PRnKBcgGKA5IXhop_Lows8aJFrRk-A8laPQVFYaI1SKW9TMkwICIWgwaCgYKAXgSARMSFQHGX2MiuAbWaUa8nIpq3VLyomps-w0170"
+    },
+    "created": "2024-08-07T18:38:13.310Z",
+    "modified": "2024-08-15T16:19:23.499Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-08-06T12:36:40.466Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "muiz",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-08-06T12:36:47.690Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "muiz",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-08-07T19:36:10.254Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "object_id": "1",
+    "object_repr": "Tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-08-07T19:38:16.942Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-08-07T21:50:01.041Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-08-07T21:57:52.787Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "Red tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-08-08T00:53:19.375Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "Black tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-08-08T00:54:36.186Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-08-12T15:41:23.401Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "Green tea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-08-12T18:05:03.281Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "зеленный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-08-12T18:09:30.477Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "зеленный чай",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-08-12T18:10:11.044Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "Зеленный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-08-12T18:11:20.396Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "Красный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-08-12T18:13:32Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "Черный чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-08-12T21:02:07.517Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "object_id": "1",
+    "object_repr": "Чай",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-08-13T10:18:27.949Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "object_id": "2",
+    "object_repr": "food",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-08-13T10:19:06.283Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "5",
+    "object_repr": "palov",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-08-13T10:21:13.562Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "Black tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-08-13T10:21:23.739Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "Green tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-08-13T10:21:45.261Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "Red tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-08-13T10:22:19.055Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "Red tea",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-08-13T10:40:53.595Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "5",
+    "object_repr": "palov",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-08-13T10:56:44.497Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "product"
+    ],
+    "object_id": "5",
+    "object_repr": "palov",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-08-13T11:48:14.890Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "products",
+      "category"
+    ],
+    "object_id": "2",
+    "object_repr": "Food",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name [ru]\", \"Name [en]\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-08-15T10:15:40.392Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "orders",
+      "order"
+    ],
+    "object_id": "1",
+    "object_repr": "Order 1",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Paid\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-08-15T16:33:02.987Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "8",
+    "object_repr": "aslan19P",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-08-15T16:33:02.991Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "muiz",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-08-15T16:34:13.696Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "3",
+    "object_repr": "aslan1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-08-15T16:34:13.707Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "9",
+    "object_repr": "muh",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-08-15T16:34:13.708Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "10",
+    "object_repr": "Muiz",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-08-15T16:34:13.709Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "4",
+    "object_repr": "muiz1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-08-15T16:34:13.709Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "11",
+    "object_repr": "Аслан",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-08-20T09:31:54.571Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "13",
+    "object_repr": "admin",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-08-20T10:23:00.992Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "16",
+    "object_repr": "Magnat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-08-20T10:23:00.995Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "17",
+    "object_repr": "Magnat1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-08-20T10:23:00.997Z",
+    "user": [
+      "aslan"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "21",
+    "object_repr": "ЖопаCталина",
+    "action_flag": 3,
+    "change_message": ""
+  }
+}
+]
